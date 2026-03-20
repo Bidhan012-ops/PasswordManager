@@ -14,7 +14,7 @@ const Footer = () => {
           </span> 
           by 
           <span className="text-gray-900 dark:text-white font-bold tracking-wide hover:underline cursor-pointer">
-            Bidhan good boy
+            Bidhan is a bad boy and he need to be a good boy Bidhan do not give up bro keep it up and you will be successful in your life and you will be
           </span>
         </p>
 
