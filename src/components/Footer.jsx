@@ -14,7 +14,7 @@ const Footer = () => {
           </span> 
           by 
           <span className="text-gray-900 dark:text-white font-bold tracking-wide hover:underline cursor-pointer">
-            Bidhan bera is really great guy and you should alwayes ask him for help and he will always be there to help you and he is really good at coding and he is really good at problem solving and he is really good at teaching and he is really good at explaining things in a simple way and he is really good at.
+            Bidhan bera is really great guy and you 
           </span>
         </p>
 
