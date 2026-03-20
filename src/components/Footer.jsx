@@ -14,7 +14,7 @@ const Footer = () => {
           </span> 
           by 
           <span className="text-gray-900 dark:text-white font-bold tracking-wide hover:underline cursor-pointer">
-            Bidhan good boy and this is the best option for the bidhan are you ready good boy is the bidhan and he loves his friend who is consider myself as her friends 
+            Bidhan good boy
           </span>
         </p>
 
