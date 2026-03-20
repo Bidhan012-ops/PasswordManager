@@ -20,7 +20,7 @@ const Footer = () => {
 
         {/* Optional Copyright Date */}
         <p className="text-xs text-gray-400">
-          &copy; {new Date().getFullYear()} All rights reserved.
+          &copy; {new Date().getFullYear()} All rights reserved and colored.
         </p>
       </div>
     </footer>
