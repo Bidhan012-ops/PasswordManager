@@ -14,7 +14,7 @@ const Footer = () => {
           </span> 
           by 
           <span className="text-gray-900 dark:text-white font-bold tracking-wide hover:underline cursor-pointer">
-            Bidhan bera is really great guy and he  pid loves a beautiful girl.
+            Bidhan bera is really great guy and he loves a beautiful girl.The girl is very pretty and she is very kind hearted. She is very good at coding and she is very good at designing. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. She is very good at everything. He loves her so much and he will do anything for her.
           </span>
         </p>
 
